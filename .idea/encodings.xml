@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Encoding">
-    <file url="file://$PROJECT_DIR$/app/src/main/java/code/chapter01/DeadLockDemo.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lib_Java/src/main/java/com/zptioning/code/chapter01/DeadLockDemo.java" charset="UTF-8" />
   </component>
 </project>
